@@ -185,4 +185,5 @@ h1 button {
     padding: 12px;
     min-width: 500px;
     max-width: 100%;
+    resize: none;
 }
